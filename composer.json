@@ -1,0 +1,11 @@
+{
+    "name": "kolya_progger/hexlet",
+    "description": "My first project",
+    "authors": [
+        {
+            "name": "kolyaProgger",
+            "email": "kolyaprogger@gmail.com"
+        }
+    ],
+    "require": {}
+}
